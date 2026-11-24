@@ -106,7 +106,7 @@ export default function Home() {
 
           <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center">
             <a
-              href="https://wa.me/5541985197035?text=Olá%20Romulo%2C%20gostaria%20de%20conversar%20sobre%20um%20projeto"
+              href="https://wa.me/5541988310244?text=Olá%20Romulo%2C%20gostaria%20de%20conversar%20sobre%20um%20projeto"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 text-black font-bold rounded hover:opacity-90 transition"
@@ -165,7 +165,7 @@ export default function Home() {
             <div>
               <h3 className="font-bold mb-3 text-sm sm:text-base" style={{ color: '#10B981' }}>Contato</h3>
               <div className="space-y-1">
-                <a href="https://wa.me/5541985197035" target="_blank" rel="noopener noreferrer" className="text-gray-400 text-xs sm:text-sm block hover:text-green-400 transition">WhatsApp</a>
+                <a href="https://wa.me/5541988310244" target="_blank" rel="noopener noreferrer" className="text-gray-400 text-xs sm:text-sm block hover:text-green-400 transition">WhatsApp</a>
                 <p className="text-gray-400 text-xs sm:text-sm">Curitiba, PR</p>
               </div>
             </div>

@@ -253,8 +253,8 @@ export default function TermosUso() {
             </p>
             <div className="bg-gray-800 p-6 rounded-lg">
               <p><strong>STARK DEV</strong></p>
-              <p>Email: romulo@tauritecnologia.com.br</p>
-              <p>WhatsApp: +55 41 98519-7035</p>
+              <p>Email: romulo.carracho@starckdev.online</p>
+              <p>WhatsApp: +55 41 98831-0244</p>
               <p>Localização: Curitiba, PR - Brasil</p>
             </div>
           </div>

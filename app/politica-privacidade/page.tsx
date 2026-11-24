@@ -221,8 +221,8 @@ export default function PoliticaPrivacidade() {
             </p>
             <div className="bg-gray-800 p-6 rounded-lg mt-4">
               <p><strong>STARK DEV</strong></p>
-              <p>Email: romulo@tauritecnologia.com.br</p>
-              <p>WhatsApp: +55 41 98519-7035</p>
+              <p>Email: romulo.carracho@starckdev.online</p>
+              <p>WhatsApp: +55 41 98831-0244</p>
               <p>Localização: Curitiba, PR - Brasil</p>
             </div>
           </div>
@@ -236,8 +236,8 @@ export default function PoliticaPrivacidade() {
               Se você tiver dúvidas sobre esta Política de Privacidade ou nossos práticas de proteção de dados, entre em contato conosco:
             </p>
             <div className="bg-gray-800 p-6 rounded-lg mt-4">
-              <p>📧 Email: romulo@tauritecnologia.com.br</p>
-              <p>💬 WhatsApp: +55 41 98519-7035</p>
+              <p>📧 Email: romulo.carracho@starckdev.online</p>
+              <p>💬 WhatsApp: +55 41 98831-0244</p>
               <p>📍 Curitiba, PR - Brasil</p>
             </div>
           </div>

@@ -116,7 +116,7 @@ export default function Servicos() {
         </div>
 
         <div className="text-center mt-16">
-          <a href="https://wa.me/5541985197035?text=Olá%20Romulo%2C%20vi%20suas%20habilidades%20e%20gostaria%20de%20conversar" target="_blank" rel="noopener noreferrer" className="inline-block px-8 py-4 text-black font-bold rounded hover:opacity-90" style={{ backgroundColor: '#10B981' }}>
+          <a href="https://wa.me/5541988310244?text=Olá%20Romulo%2C%20vi%20suas%20habilidades%20e%20gostaria%20de%20conversar" target="_blank" rel="noopener noreferrer" className="inline-block px-8 py-4 text-black font-bold rounded hover:opacity-90" style={{ backgroundColor: '#10B981' }}>
             Vamos Conversar
           </a>
         </div>
@@ -137,8 +137,8 @@ export default function Servicos() {
             <div>
               <h3 className="font-bold mb-3" style={{ color: '#10B981' }}>Contato</h3>
               <div className="space-y-1">
-                <a href="https://wa.me/5541985197035" target="_blank" rel="noopener noreferrer" className="text-gray-400 text-sm block">WhatsApp</a>
-                <a href="mailto:romulo@tauritecnologia.com.br" className="text-gray-400 text-sm block">Email</a>
+                <a href="https://wa.me/5541988310244" target="_blank" rel="noopener noreferrer" className="text-gray-400 text-sm block">WhatsApp</a>
+                <a href="mailto:romulo.carracho@starckdev.online" className="text-gray-400 text-sm block">Email</a>
                 <p className="text-gray-400 text-sm">Curitiba, PR</p>
               </div>
             </div>
